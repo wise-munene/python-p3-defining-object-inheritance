@@ -1,4 +1,5 @@
 from vehicle import Vehicle
 
 class Car(Vehicle):
-    pass
+    def go(self):  #what happens is car class is inheriti
+        return "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
